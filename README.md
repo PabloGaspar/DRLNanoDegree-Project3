@@ -36,13 +36,10 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 2. Place the file in the DRLND GitHub repository, in the `p3_collab-compet/` folder, and unzip (or decompress) the file. 
 
-### Instructions
-
-Follow the instructions in `Tennis.ipynb` to get started with training your own agent!  
 
 ### The Environment
-
-`INFO:unityagents:
+```
+INFO:unityagents:
 'Academy' started successfully!
 Unity Academy name: Academy
         Number of Brains: 1
@@ -57,8 +54,8 @@ Unity brain name: TennisBrain
         Number of stacked Vector Observation: 3
         Vector Action space type: continuous
         Vector Action space size (per agent): 2
-        Vector Action descriptions: ,`
-
+        Vector Action descriptions: ,
+```
 The enviroment is considered solved after the agents get an average score of +0.5 (over 100 consecutive episodes, after taking the maximum over both agents).
 
 ## Dependencies
@@ -71,4 +68,4 @@ pip install .
 ```
 ## Instructions
 
-Run `Tennis.ipynb` for further details.
+Run `Tennis.ipynb` to run the project.
