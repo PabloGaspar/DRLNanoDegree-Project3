@@ -58,7 +58,7 @@ Unity brain name: TennisBrain
 ```
 The enviroment is considered solved after the agents get an average score of +0.5 (over 100 consecutive episodes, after taking the maximum over both agents).
 
-## Dependencies
+## Dependencies Installation
 
 To set up your python environment to run the code in this repository, follow the instructions below.
 	
